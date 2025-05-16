@@ -1,4 +1,4 @@
-Convert To ASCII
+Hex To ASCII
 ====================================
 Convert hex values to their corresponding ASCII values and print them 
 
