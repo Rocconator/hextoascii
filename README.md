@@ -3,7 +3,7 @@ Hex To ASCII
 Convert hex values to their corresponding ASCII values and print them 
 
 ## Compiling/Executing
-Make sure nasm is installed on your current linux environment, then type build using the makefile.
+Make sure nasm is installed on your current linux environment, then type build using the makefile
 ```
 make convert
 ./convertToASCII
